@@ -106,7 +106,7 @@ export const swaggerSpec = {
       Error: {
         type: 'object',
         properties: {
-          error: { type: 'string', example: 'Descriptive error message' },
+          error: { type: 'string', example: 'You are not a member of this household' },
         },
       },
     },
